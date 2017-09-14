@@ -18,6 +18,16 @@ public class MainActivity extends AppCompatActivity {
         // TODO : ??
     }
 
+
+
+    public void testA() {
+
+    }
+
+    public void  testAA() {
+
+    }
+
     public void testB() {
 
     }
