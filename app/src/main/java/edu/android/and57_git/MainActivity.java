@@ -42,4 +42,7 @@ public class MainActivity extends AppCompatActivity {
     public void  testBB() {
 
     }
+     public void testCC() {
+
+     }
 }
